@@ -7,6 +7,10 @@ this is a sample producer/consumer with topic exchange and multi routing keys us
 bound declared queus and timeout per queue
 also there is a sample on how to add on the fly additional binding to exisiting queue
 
+Prerequisits
+------------
+rabbitMQ server running on localhost or other host available to use 
+
 ### Usage
 use message_generator.py to generate messages:
 ```
